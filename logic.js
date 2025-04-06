@@ -1,2 +1,2 @@
 var firstName = "Jashandeep Kaur";
-alert("Welcome to my Portfolio Page");
+console.log("Welcome to my Portfolio Page");
