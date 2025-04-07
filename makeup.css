@@ -16,3 +16,6 @@ h2{
 body{
     font-family:'Courier New', Courier, monospace;
 }
+span{
+    font-weight: bold;
+}
