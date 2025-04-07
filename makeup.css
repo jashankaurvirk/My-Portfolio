@@ -1,4 +1,18 @@
-h1{color:orange;
+h1{
+    color:orange;
 }
-h2{color:blueviolet};
-h4{color:brown};
+h2{
+    color:blueviolet;
+}
+#myName{
+    text-align:center;
+}
+.myContact{
+    background-color: grey;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    font-family:'Courier New', Courier, monospace;
+}
