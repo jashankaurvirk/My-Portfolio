@@ -26,3 +26,10 @@ function changeTheme(){
         document.body.style.color = "black";
     }
 }
+function contactJashan(){
+   var email = "mailto:jashan2001virk@gmail.com";
+   window.open(email, "_blank");
+}
+//planning - create a button ,  create function and confirm if function is working
+
+//figure out how to send email through js 
