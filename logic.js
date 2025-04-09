@@ -33,3 +33,24 @@ function contactJashan(){
 //planning - create a button ,  create function and confirm if function is working
 
 //figure out how to send email through js 
+
+function addNumbers(){
+    for(var i = 1; i<=10; i++){
+        console.log(i);
+    }
+}
+
+function basicSearch(){
+    //goal: make use of while loop to search for a person name from array of names
+    const names = ["jashan", "manno", "tom", "chiku"];
+    let i = 0;
+    while(i <= names.length){
+        if(names[i] == "tom"){
+            console.log("Search result found at index: " +i+ " and Name is: " +names[i]);
+            break;
+        }
+        console.log("Result not found at index: " +i);
+        i++;
+
+    }
+}
